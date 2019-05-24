@@ -1,0 +1,90 @@
+{
+    "levels": [
+        {
+            "levelId": 0,
+            "levelLength": 3000,
+            "enemies" :
+            [
+                {
+                    "enemyId": "0-1",
+                    "enemyEnum": 2,
+                    "enemyPosition": [20, -2.183],
+                    "alive":true
+                },
+                {
+                    "enemyId": "0-2",
+                    "enemyEnum": 2,
+                    "enemyPosition": [35, -1.85],
+                    "alive":true
+                },
+                {
+                    "enemyId": "0-3",
+                    "enemyEnum": 2,
+                    "enemyPosition": [40, -1.85],
+                    "alive":true
+                },
+                {
+                    "enemyId": "0-4",
+                    "enemyEnum": 2,
+                    "enemyPosition": [55, -2.183],
+                    "alive":true
+                },
+                {
+                    "enemyId": "0-5",
+                    "enemyEnum": 2,
+                    "enemyPosition": [70, -2.183],
+                    "alive":true
+                },
+                {
+                    "enemyId": "0-6",
+                    "enemyEnum": 2,
+                    "enemyPosition": [100, -1.85],
+                    "alive":true
+                },
+                {
+                    "enemyId": "0-7",
+                    "enemyEnum": 2,
+                    "enemyPosition": [105, -1.85],
+                    "alive":true
+                },
+                {
+                    "enemyId": "0-8",
+                    "enemyEnum": 2,
+                    "enemyPosition": [120, -2.183],
+                    "alive":true
+                }
+                ,
+                {
+                    "enemyId": "0-9",
+                    "enemyEnum": 2,
+                    "enemyPosition": [130, -1.85],
+                    "alive":true
+                },
+                {
+                    "enemyId": "0-10",
+                    "enemyEnum": 2,
+                    "enemyPosition": [135, -1.85],
+                    "alive":true
+                },
+                {
+                    "enemyId": "0-11",
+                    "enemyEnum": 2,
+                    "enemyPosition": [145, -2.183],
+                    "alive":true
+                },
+                {
+                    "enemyId": "0-12",
+                    "enemyEnum": 2,
+                    "enemyPosition": [150, -1.85],
+                    "alive":true
+                },
+                {
+                    "enemyId": "0-13",
+                    "enemyEnum": 2,
+                    "enemyPosition": [160, -2.183],
+                    "alive":true
+                }
+            ]
+        }
+    ]
+}
